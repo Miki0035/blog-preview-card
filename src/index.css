@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: Figtree;
+        src: url("./assets/fonts/Figtree-VariableFont_wght.ttf");
+    }
+}
